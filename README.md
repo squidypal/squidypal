@@ -1,8 +1,6 @@
 # squidypal
 
-
-
-Gameplay systems developer with 5+ years of experience. I love building the systems games rely on, and shipping my own games solo.
+Gameplay systems developer with 5+ years of experience.
 
 ## Social
 - [squidypal.com](https://squidypal.com/)
